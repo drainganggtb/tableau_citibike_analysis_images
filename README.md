@@ -9,7 +9,7 @@ Additionally, each dashboard is complimented by analysis describing the trends t
 
 ## Other notes
 Given that the dataset was divided between Customers and Subscribers to the Citi Bike service, it could be assumed that not all data was accurate for those who are not subscribed in the system. 
-The following image describes what I describe as the **"69 effect"**, where I propose that customers providing information in a hurry, or knowing that they are not taking many rides in the future, are prone to providing fake information, which although anonymizing, does not provide accurate data. This is all to communicate that way too many people chose **1969** as their birth year. The oldest birth year and the coordinates 0,0 also produced unintended outliers. 
+The following image shows what I describe as the **"69 effect"**, where I propose that customers providing information in a hurry, or knowing that they are not taking many rides in the future, are prone to providing fake information, which although anonymizing, does not provide accurate data. This is all to communicate that way too many people chose **1969** as their birth year. The oldest birth year and the coordinates 0,0 also produced unintended outliers. 
 
 ![69](69effect.png)
 
@@ -27,5 +27,5 @@ Next, I mapped the top 10 locations by number of records and added custom icons.
 ## Dashboards
 I made three dashboards to describe the most popular stations, rider demographics, and trip data.
 ![maps](db_maps.png)
-![demo](db_demographic_analysis)
+![demo](db_demographic_analysis.png)
 ![rider](db_rider_analysis.png)
