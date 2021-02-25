@@ -5,6 +5,8 @@ I tasked myself to create a set of Tableau visualizations to be combined in dash
 ## Task
 Data needed to be aggregated, so I chose to make visualizations on data from **July to December 2019**. Next, unique phenomena were identified and visualized. In order to fully categorize trends from the six month time period, I chose to make separate dashboards for summary statistics and maps, rider data/demographics, and ride distance/length themes. 
 
+![union](union.png)
+
 Additionally, each dashboard is complimented by analysis describing the trends that were identified. 
 
 ## Other notes
