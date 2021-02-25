@@ -21,7 +21,7 @@ The original gender data is binary, so when representing it on visualizations, a
 
 ## Visualizations
 
-The city required a visualization of all of the stations on a map with an indication of popularity, along with zip codes. Using the map layer function in Tableau, I was able to add the zip codes streets in greater detail.
+The city required a visualization of all of the stations on a map with an indication of popularity, along with zip codes. Using the map layer function in Tableau, I was able to add more detail in streets and zip codes.
 ![required](required.png)
 
 Next, I mapped the top 10 locations by number of records and added custom icons. The map layer in this map shows important landmarks, in order to give context to the popularity of each station.
