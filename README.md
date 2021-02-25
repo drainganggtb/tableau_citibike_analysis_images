@@ -32,6 +32,7 @@ Next, I mapped the top 10 locations by number of records and added custom icons.
 I made three dashboards to describe the most popular stations, rider demographics, and trip data.
 ![maps](db_maps.png)
 ![demo](db_demographic_analysis.png)
+It can be seen that there are many more male riders than female, and in some circumstances, males completely dominate certain stations, like Pershing Square North, which is in the center of the city and likely a site of office jobs. It can also be seen that the customer base for Citi Bikes is mainly subscribers. 
 ![rider](db_rider_analysis.png)
 
 ## Extra context
